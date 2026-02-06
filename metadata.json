@@ -1,0 +1,8 @@
+{
+  "name": "Elbek Design - Professional Gaming Graphics",
+  "description": "Premium YouTube banner, avatar, and preview design services with integrated payment and order tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
